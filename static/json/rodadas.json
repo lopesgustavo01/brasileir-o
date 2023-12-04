@@ -1,0 +1,3193 @@
+{"rodadas": [{
+  "rodada": 1,
+  "jogos": [
+    {
+      "data": "15/04 16:00",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "0",
+      "placar fora": "3",
+      "time fora": "FLU"
+    },
+    {
+      "data": "15/04 16:00",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "CUI"
+    },
+    {
+      "data": "15/04 18:30",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "SAO"
+    },
+    {
+      "data": "15/04 18:30",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "INT"
+    },
+    {
+      "data": "15/04 18:30",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "BAH"
+    },
+    {
+      "data": "15/04 18:30",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "GOI"
+    },
+    {
+      "data": "15/04 21:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CAM",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "VAS"
+    },
+    {
+      "data": "16/04 16:00",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "CRU"
+    },
+    {
+      "data": "16/04 16:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "CFC"
+    },
+    {
+      "data": "16/04 18:30",
+      "local": "Alfredo Jaconi",
+      "time casa": "GRE",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "SAN"
+    }
+  ]
+},{
+  "rodada": 2,
+  "jogos": [
+    {
+      "data": "22/04 16:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "CAP"
+    },
+    {
+      "data": "22/04 18:30",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "AMG"
+    },
+    {
+      "data": "22/04 18:30",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "RBB"
+    },
+    {
+      "data": "22/04 21:00",
+      "local": "Independ\u00eancia",
+      "time casa": "CRU",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "GRE"
+    },
+    {
+      "data": "23/04 11:00",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "FLA"
+    },
+    {
+      "data": "23/04 16:00",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "CAM"
+    },
+    {
+      "data": "23/04 16:00",
+      "local": "Maracan\u00e3",
+      "time casa": "VAS",
+      "placar casa": "2",
+      "placar fora": "2",
+      "time fora": "PAL"
+    },
+    {
+      "data": "23/04 18:30",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "0",
+      "placar fora": "3",
+      "time fora": "FOR"
+    },
+    {
+      "data": "23/04 19:00",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "3",
+      "placar fora": "1",
+      "time fora": "COR"
+    },
+    {
+      "data": "24/04 20:00",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "BOT"
+    }
+  ]
+},{
+  "rodada": 3,
+  "jogos": [
+    {
+      "data": "29/04 16:30",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "4",
+      "placar fora": "2",
+      "time fora": "FLU"
+    },
+    {
+      "data": "29/04 16:30",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "SAO"
+    },
+    {
+      "data": "29/04 18:30",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "3",
+      "placar fora": "2",
+      "time fora": "AMG"
+    },
+    {
+      "data": "29/04 18:30",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "COR"
+    },
+    {
+      "data": "29/04 18:30",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "0",
+      "placar fora": "3",
+      "time fora": "CRU"
+    },
+    {
+      "data": "29/04 21:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CAM",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "CAP"
+    },
+    {
+      "data": "30/04 16:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "2",
+      "placar fora": "3",
+      "time fora": "BOT"
+    },
+    {
+      "data": "30/04 18:30",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "GRE"
+    },
+    {
+      "data": "30/04 18:30",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "GOI"
+    },
+    {
+      "data": "01/05 20:00",
+      "local": "S\u00e3o Janu\u00e1rio",
+      "time casa": "VAS",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "BAH"
+    }
+  ]
+},{
+  "rodada": 4,
+  "jogos": [
+    {
+      "data": "06/05 16:00",
+      "local": "Independ\u00eancia",
+      "time casa": "CRU",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "SAN"
+    },
+    {
+      "data": "06/05 21:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "VAS"
+    },
+    {
+      "data": "07/05 11:00",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "CUI"
+    },
+    {
+      "data": "07/05 16:00",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "FLA"
+    },
+    {
+      "data": "07/05 16:00",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "INT"
+    },
+    {
+      "data": "07/05 16:00",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "3",
+      "placar fora": "1",
+      "time fora": "CFC"
+    },
+    {
+      "data": "07/05 18:30",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "CAM"
+    },
+    {
+      "data": "07/05 18:30",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "0",
+      "placar fora": "5",
+      "time fora": "PAL"
+    },
+    {
+      "data": "07/05 18:30",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "3",
+      "placar fora": "3",
+      "time fora": "RBB"
+    },
+    {
+      "data": "08/05 20:00",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "FOR"
+    }
+  ]
+},{
+  "rodada": 5,
+  "jogos": [
+    {
+      "data": "10/05 19:00",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "BAH"
+    },
+    {
+      "data": "10/05 19:00",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "CAP"
+    },
+    {
+      "data": "10/05 19:00",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "2",
+      "placar fora": "2",
+      "time fora": "AMG"
+    },
+    {
+      "data": "10/05 20:00",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "0",
+      "placar fora": "4",
+      "time fora": "CAM"
+    },
+    {
+      "data": "10/05 20:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "GOI"
+    },
+    {
+      "data": "10/05 21:30",
+      "local": "Mineir\u00e3o",
+      "time casa": "CRU",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "FLU"
+    },
+    {
+      "data": "10/05 21:30",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "4",
+      "placar fora": "1",
+      "time fora": "GRE"
+    },
+    {
+      "data": "11/05 19:00",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "VAS"
+    },
+    {
+      "data": "11/05 19:30",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "COR"
+    },
+    {
+      "data": "11/05 20:00",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "SAO"
+    }
+  ]
+},{
+  "rodada": 6,
+  "jogos": [
+    {
+      "data": "13/05 16:00",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "2",
+      "placar fora": "3",
+      "time fora": "FLA"
+    },
+    {
+      "data": "13/05 18:30",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "RBB"
+    },
+    {
+      "data": "13/05 18:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "CUI"
+    },
+    {
+      "data": "13/05 21:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CAM",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "INT"
+    },
+    {
+      "data": "14/05 16:00",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "SAO"
+    },
+    {
+      "data": "14/05 16:00",
+      "local": "S\u00e3o Janu\u00e1rio",
+      "time casa": "VAS",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "SAN"
+    },
+    {
+      "data": "14/05 16:00",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "FOR"
+    },
+    {
+      "data": "14/05 18:30",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "3",
+      "placar fora": "2",
+      "time fora": "CFC"
+    },
+    {
+      "data": "14/05 18:30",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "0",
+      "placar fora": "4",
+      "time fora": "CRU"
+    },
+    {
+      "data": "14/05 18:30",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "BOT"
+    }
+  ]
+},{
+  "rodada": 7,
+  "jogos": [
+    {
+      "data": "20/05 16:00",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "GOI"
+    },
+    {
+      "data": "20/05 18:30",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "FOR"
+    },
+    {
+      "data": "20/05 18:30",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "4",
+      "placar fora": "2",
+      "time fora": "VAS"
+    },
+    {
+      "data": "20/05 18:30",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "FLU"
+    },
+    {
+      "data": "20/05 18:30",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "CAP"
+    },
+    {
+      "data": "20/05 18:30",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "CAM"
+    },
+    {
+      "data": "20/05 21:00",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "PAL"
+    },
+    {
+      "data": "21/05 16:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "COR"
+    },
+    {
+      "data": "21/05 18:30",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "3",
+      "placar fora": "1",
+      "time fora": "INT"
+    },
+    {
+      "data": "22/05 20:00",
+      "local": "Independ\u00eancia",
+      "time casa": "CRU",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "CUI"
+    }
+  ]
+},{
+  "rodada": 8,
+  "jogos": [
+    {
+      "data": "27/05 16:00",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "GRE"
+    },
+    {
+      "data": "27/05 16:00",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "VAS"
+    },
+    {
+      "data": "27/05 18:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "CRU"
+    },
+    {
+      "data": "27/05 18:30",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "CFC"
+    },
+    {
+      "data": "27/05 21:00",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "GOI"
+    },
+    {
+      "data": "28/05 16:00",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "FLU"
+    },
+    {
+      "data": "28/05 16:00",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "BAH"
+    },
+    {
+      "data": "28/05 18:30",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "SAN"
+    },
+    {
+      "data": "28/05 18:30",
+      "local": "Mineir\u00e3o",
+      "time casa": "CAM",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "PAL"
+    },
+    {
+      "data": "28/05 19:00",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "AMG"
+    }
+  ]
+},{
+  "rodada": 9,
+  "jogos": [
+    {
+      "data": "03/06 16:00",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "BAH"
+    },
+    {
+      "data": "03/06 18:30",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "COR"
+    },
+    {
+      "data": "03/06 18:30",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "BOT"
+    },
+    {
+      "data": "03/06 18:30",
+      "local": "Parque do Sabi\u00e1",
+      "time casa": "CRU",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "CAM"
+    },
+    {
+      "data": "03/06 21:00",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "INT"
+    },
+    {
+      "data": "04/06 16:00",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "SAO"
+    },
+    {
+      "data": "04/06 16:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "RBB"
+    },
+    {
+      "data": "04/06 18:30",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "CUI"
+    },
+    {
+      "data": "04/06 18:30",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "3",
+      "placar fora": "1",
+      "time fora": "CFC"
+    },
+    {
+      "data": "05/06 20:00",
+      "local": "Maracan\u00e3",
+      "time casa": "VAS",
+      "placar casa": "1",
+      "placar fora": "4",
+      "time fora": "FLA"
+    }
+  ]
+},{
+  "rodada": 10,
+  "jogos": [
+    {
+      "data": "10/06 16:00",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "SAN"
+    },
+    {
+      "data": "10/06 18:30",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "2",
+      "placar fora": "2",
+      "time fora": "CRU"
+    },
+    {
+      "data": "10/06 18:30",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "CUI"
+    },
+    {
+      "data": "10/06 18:30",
+      "local": "Mineir\u00e3o",
+      "time casa": "CAM",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "RBB"
+    },
+    {
+      "data": "10/06 21:00",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "FOR"
+    },
+    {
+      "data": "11/06 11:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "AMG",
+      "placar casa": "2",
+      "placar fora": "2",
+      "time fora": "CAP"
+    },
+    {
+      "data": "11/06 16:00",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "PAL"
+    },
+    {
+      "data": "11/06 16:00",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "VAS"
+    },
+    {
+      "data": "11/06 18:30",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "2",
+      "placar fora": "2",
+      "time fora": "FLU"
+    },
+    {
+      "data": "11/06 18:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "GRE"
+    }
+  ]
+},{
+  "rodada": 11,
+  "jogos": [
+    {
+      "data": "21/06 19:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CRU",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "FOR"
+    },
+    {
+      "data": "21/06 19:00",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "CAP"
+    },
+    {
+      "data": "21/06 20:00",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "COR"
+    },
+    {
+      "data": "21/06 21:30",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "PAL"
+    },
+    {
+      "data": "21/06 21:30",
+      "local": "Raulino de Oliveira",
+      "time casa": "FLU",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "CAM"
+    },
+    {
+      "data": "22/06 19:00",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "3",
+      "placar fora": "1",
+      "time fora": "AMG"
+    },
+    {
+      "data": "22/06 20:00",
+      "local": "S\u00e3o Janu\u00e1rio",
+      "time casa": "VAS",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "GOI"
+    },
+    {
+      "data": "22/06 20:00",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "BOT"
+    },
+    {
+      "data": "22/06 20:00",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "INT"
+    },
+    {
+      "data": "22/06 21:30",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "4",
+      "placar fora": "0",
+      "time fora": "FLA"
+    }
+  ]
+},{
+  "rodada": 12,
+  "jogos": [
+    {
+      "data": "24/06 16:00",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "COR"
+    },
+    {
+      "data": "24/06 18:30",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "CAM"
+    },
+    {
+      "data": "24/06 18:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "BAH"
+    },
+    {
+      "data": "24/06 21:00",
+      "local": "Independ\u00eancia",
+      "time casa": "CRU",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "SAO"
+    },
+    {
+      "data": "25/06 16:00",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "BOT"
+    },
+    {
+      "data": "25/06 16:00",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "5",
+      "placar fora": "1",
+      "time fora": "CFC"
+    },
+    {
+      "data": "25/06 18:30",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "2",
+      "placar fora": "3",
+      "time fora": "FLA"
+    },
+    {
+      "data": "25/06 18:30",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "INT"
+    },
+    {
+      "data": "25/06 18:30",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "GOI"
+    },
+    {
+      "data": "26/06 21:00",
+      "local": "Luso Brasileiro",
+      "time casa": "VAS",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "CUI"
+    }
+  ]
+},{
+  "rodada": 13,
+  "jogos": [
+    {
+      "data": "01/07 16:00",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "FLU"
+    },
+    {
+      "data": "01/07 18:30",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "GRE"
+    },
+    {
+      "data": "01/07 18:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "FOR"
+    },
+    {
+      "data": "01/07 21:00",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "CRU"
+    },
+    {
+      "data": "02/07 11:00",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "RBB"
+    },
+    {
+      "data": "02/07 16:00",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "2",
+      "placar fora": "2",
+      "time fora": "PAL"
+    },
+    {
+      "data": "02/07 16:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CAM",
+      "placar casa": "2",
+      "placar fora": "2",
+      "time fora": "AMG"
+    },
+    {
+      "data": "02/07 16:00",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "VAS"
+    },
+    {
+      "data": "02/07 18:30",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "SAN"
+    },
+    {
+      "data": "03/07 20:00",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "CFC"
+    }
+  ]
+},{
+  "rodada": 14,
+  "jogos": [
+    {
+      "data": "08/07 16:00",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "BAH"
+    },
+    {
+      "data": "08/07 16:00",
+      "local": "S\u00e3o Janu\u00e1rio",
+      "time casa": "VAS",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "CRU"
+    },
+    {
+      "data": "08/07 18:30",
+      "local": "Mineir\u00e3o",
+      "time casa": "CAM",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "COR"
+    },
+    {
+      "data": "08/07 18:30",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "3",
+      "placar fora": "1",
+      "time fora": "AMG"
+    },
+    {
+      "data": "08/07 21:00",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "FLA"
+    },
+    {
+      "data": "09/07 11:00",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "4",
+      "placar fora": "3",
+      "time fora": "GOI"
+    },
+    {
+      "data": "09/07 16:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "INT"
+    },
+    {
+      "data": "09/07 16:00",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "SAO"
+    },
+    {
+      "data": "09/07 18:30",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "BOT"
+    },
+    {
+      "data": "09/07 18:30",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "CAP"
+    }
+  ]
+},{
+  "rodada": 15,
+  "jogos": [
+    {
+      "data": "15/07 21:00",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "RBB"
+    },
+    {
+      "data": "16/07 11:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CRU",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "CFC"
+    },
+    {
+      "data": "16/07 16:00",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "4",
+      "placar fora": "1",
+      "time fora": "SAN"
+    },
+    {
+      "data": "16/07 16:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "FLA"
+    },
+    {
+      "data": "16/07 16:00",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "CUI"
+    },
+    {
+      "data": "16/07 18:30",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "PAL"
+    },
+    {
+      "data": "16/07 18:30",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "BAH"
+    },
+    {
+      "data": "17/07 20:00",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "CAM"
+    },
+    {
+      "data": "18/09 21:00",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "4",
+      "placar fora": "4",
+      "time fora": "GRE"
+    },
+    {
+      "data": "25/09 20:00",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "VAS"
+    }
+  ]
+},{
+  "rodada": 16,
+  "jogos": [
+    {
+      "data": "22/07 16:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "AMG"
+    },
+    {
+      "data": "22/07 16:00",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "3",
+      "placar fora": "1",
+      "time fora": "FOR"
+    },
+    {
+      "data": "22/07 18:30",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "COR"
+    },
+    {
+      "data": "22/07 18:30",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "SAO"
+    },
+    {
+      "data": "22/07 21:00",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "CAM"
+    },
+    {
+      "data": "23/07 16:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CRU",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "GOI"
+    },
+    {
+      "data": "23/07 16:00",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "2",
+      "placar fora": "2",
+      "time fora": "BOT"
+    },
+    {
+      "data": "23/07 16:00",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "INT"
+    },
+    {
+      "data": "23/07 18:30",
+      "local": "S\u00e3o Janu\u00e1rio",
+      "time casa": "VAS",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "CAP"
+    },
+    {
+      "data": "24/07 19:00",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "FLU"
+    }
+  ]
+},{
+  "rodada": 17,
+  "jogos": [
+    {
+      "data": "29/07 16:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "SAN"
+    },
+    {
+      "data": "29/07 16:00",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "3",
+      "placar fora": "3",
+      "time fora": "CRU"
+    },
+    {
+      "data": "29/07 16:00",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "CUI"
+    },
+    {
+      "data": "29/07 18:30",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "3",
+      "placar fora": "1",
+      "time fora": "VAS"
+    },
+    {
+      "data": "29/07 18:30",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "0",
+      "placar fora": "3",
+      "time fora": "RBB"
+    },
+    {
+      "data": "29/07 21:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CAM",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "FLA"
+    },
+    {
+      "data": "30/07 11:00",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "BAH"
+    },
+    {
+      "data": "30/07 16:00",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "1",
+      "placar fora": "4",
+      "time fora": "PAL"
+    },
+    {
+      "data": "30/07 16:00",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "4",
+      "placar fora": "1",
+      "time fora": "CFC"
+    },
+    {
+      "data": "30/07 18:30",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "GRE"
+    }
+  ]
+},{
+  "rodada": 18,
+  "jogos": [
+    {
+      "data": "05/08 16:00",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "CAP"
+    },
+    {
+      "data": "05/08 18:30",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "FOR"
+    },
+    {
+      "data": "05/08 18:30",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "2",
+      "placar fora": "2",
+      "time fora": "COR"
+    },
+    {
+      "data": "05/08 21:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "PAL"
+    },
+    {
+      "data": "06/08 16:00",
+      "local": "S\u00e3o Janu\u00e1rio",
+      "time casa": "VAS",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "GRE"
+    },
+    {
+      "data": "06/08 16:00",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "CAM"
+    },
+    {
+      "data": "06/08 18:30",
+      "local": "Mineir\u00e3o",
+      "time casa": "CRU",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "BOT"
+    },
+    {
+      "data": "06/08 18:30",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "RBB"
+    },
+    {
+      "data": "06/08 18:30",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "3",
+      "placar fora": "1",
+      "time fora": "AMG"
+    },
+    {
+      "data": "06/08 20:00",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "FLA"
+    }
+  ]
+},{
+  "rodada": 19,
+  "jogos": [
+    {
+      "data": "12/08 21:00",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "3",
+      "placar fora": "1",
+      "time fora": "INT"
+    },
+    {
+      "data": "13/08 11:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CAM",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "BAH"
+    },
+    {
+      "data": "13/08 16:00",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "GOI"
+    },
+    {
+      "data": "13/08 16:00",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "3",
+      "placar fora": "1",
+      "time fora": "CFC"
+    },
+    {
+      "data": "13/08 16:00",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "FLU"
+    },
+    {
+      "data": "13/08 18:30",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "4",
+      "placar fora": "0",
+      "time fora": "SAN"
+    },
+    {
+      "data": "13/08 18:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "SAO"
+    },
+    {
+      "data": "14/08 19:00",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "CRU"
+    },
+    {
+      "data": "14/08 21:00",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "VAS"
+    },
+    {
+      "data": "15/08 20:00",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "CUI"
+    }
+  ]
+},{
+  "rodada": 20,
+  "jogos": [
+    {
+      "data": "19/08 16:00",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "BOT"
+    },
+    {
+      "data": "19/08 16:00",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "FOR"
+    },
+    {
+      "data": "19/08 18:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "3",
+      "placar fora": "1",
+      "time fora": "AMG"
+    },
+    {
+      "data": "19/08 18:30",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "PAL"
+    },
+    {
+      "data": "19/08 21:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CRU",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "COR"
+    },
+    {
+      "data": "20/08 11:00",
+      "local": "Maracan\u00e3",
+      "time casa": "VAS",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "CAM"
+    },
+    {
+      "data": "20/08 16:00",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "2",
+      "placar fora": "3",
+      "time fora": "FLA"
+    },
+    {
+      "data": "20/08 16:00",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "GRE"
+    },
+    {
+      "data": "20/08 16:00",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "4",
+      "placar fora": "0",
+      "time fora": "RBB"
+    },
+    {
+      "data": "21/08 20:00",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "CAP"
+    }
+  ]
+},{
+  "rodada": 21,
+  "jogos": [
+    {
+      "data": "26/08 18:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "INT"
+    },
+    {
+      "data": "26/08 21:00",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "GOI"
+    },
+    {
+      "data": "27/08 11:00",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "CUI"
+    },
+    {
+      "data": "27/08 16:00",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "BAH"
+    },
+    {
+      "data": "27/08 16:00",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "SAO"
+    },
+    {
+      "data": "27/08 16:00",
+      "local": "Arena MRV",
+      "time casa": "CAM",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "SAN"
+    },
+    {
+      "data": "27/08 18:30",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "VAS"
+    },
+    {
+      "data": "27/08 18:30",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "2",
+      "placar fora": "2",
+      "time fora": "FLU"
+    },
+    {
+      "data": "27/08 18:30",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "3",
+      "placar fora": "1",
+      "time fora": "CFC"
+    },
+    {
+      "data": "27/08 19:00",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "CRU"
+    }
+  ]
+},{
+  "rodada": 22,
+  "jogos": [
+    {
+      "data": "02/09 16:00",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "CAM"
+    },
+    {
+      "data": "02/09 16:00",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "INT"
+    },
+    {
+      "data": "02/09 21:00",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "FLA"
+    },
+    {
+      "data": "03/09 11:00",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "CUI"
+    },
+    {
+      "data": "03/09 16:00",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "PAL"
+    },
+    {
+      "data": "03/09 16:00",
+      "local": "Raulino de Oliveira",
+      "time casa": "FLU",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "FOR"
+    },
+    {
+      "data": "03/09 18:30",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "SAN"
+    },
+    {
+      "data": "03/09 18:30",
+      "local": "Mineir\u00e3o",
+      "time casa": "CRU",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "RBB"
+    },
+    {
+      "data": "03/09 18:30",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "VAS"
+    },
+    {
+      "data": "27/09 19:00",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "CFC"
+    }
+  ]
+},{
+  "rodada": 23,
+  "jogos": [
+    {
+      "data": "13/09 21:30",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "SAO"
+    },
+    {
+      "data": "13/09 21:30",
+      "local": "Kleber Andrade",
+      "time casa": "FLA",
+      "placar casa": "0",
+      "placar fora": "3",
+      "time fora": "CAP"
+    },
+    {
+      "data": "14/09 19:00",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "0",
+      "placar fora": "3",
+      "time fora": "CRU"
+    },
+    {
+      "data": "14/09 19:00",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "COR"
+    },
+    {
+      "data": "14/09 20:00",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "2",
+      "placar fora": "4",
+      "time fora": "BAH"
+    },
+    {
+      "data": "14/09 21:30",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "GRE"
+    },
+    {
+      "data": "15/09 20:00",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "2",
+      "placar fora": "2",
+      "time fora": "AMG"
+    },
+    {
+      "data": "15/09 21:30",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "GOI"
+    },
+    {
+      "data": "16/09 16:00",
+      "local": "Nilton Santos",
+      "time casa": "VAS",
+      "placar casa": "4",
+      "placar fora": "2",
+      "time fora": "FLU"
+    },
+    {
+      "data": "16/09 21:00",
+      "local": "Arena MRV",
+      "time casa": "CAM",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "BOT"
+    }
+  ]
+},{
+  "rodada": 24,
+  "jogos": [
+    {
+      "data": "18/09 20:00",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "SAN"
+    },
+    {
+      "data": "19/09 21:30",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "RBB"
+    },
+    {
+      "data": "20/09 19:00",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "FLA"
+    },
+    {
+      "data": "20/09 21:30",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "FOR"
+    },
+    {
+      "data": "20/09 21:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "CRU"
+    },
+    {
+      "data": "21/09 19:00",
+      "local": "S\u00e3o Janu\u00e1rio",
+      "time casa": "VAS",
+      "placar casa": "5",
+      "placar fora": "1",
+      "time fora": "CFC"
+    },
+    {
+      "data": "21/09 19:30",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "INT"
+    },
+    {
+      "data": "21/09 21:30",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "PAL"
+    },
+    {
+      "data": "22/09 20:00",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "BOT"
+    },
+    {
+      "data": "23/09 21:00",
+      "local": "Arena MRV",
+      "time casa": "CAM",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "CUI"
+    }
+  ]
+},{
+  "rodada": 25,
+  "jogos": [
+    {
+      "data": "30/09 16:00",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "GRE"
+    },
+    {
+      "data": "30/09 16:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "BAH"
+    },
+    {
+      "data": "30/09 18:30",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "COR"
+    },
+    {
+      "data": "30/09 18:30",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "FLU"
+    },
+    {
+      "data": "30/09 21:00",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "CAM"
+    },
+    {
+      "data": "01/10 16:00",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "4",
+      "placar fora": "1",
+      "time fora": "VAS"
+    },
+    {
+      "data": "01/10 16:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CRU",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "AMG"
+    },
+    {
+      "data": "01/10 16:00",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "CAP"
+    },
+    {
+      "data": "01/10 18:30",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "PAL"
+    },
+    {
+      "data": "02/10 20:00",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "GOI"
+    }
+  ]
+},{
+  "rodada": 26,
+  "jogos": [
+    {
+      "data": "07/10 16:00",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "4",
+      "placar fora": "6",
+      "time fora": "BAH"
+    },
+    {
+      "data": "07/10 18:30",
+      "local": "S\u00e3o Janu\u00e1rio",
+      "time casa": "VAS",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "SAO"
+    },
+    {
+      "data": "07/10 21:00",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "FLA"
+    },
+    {
+      "data": "08/10 16:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "BOT"
+    },
+    {
+      "data": "08/10 16:00",
+      "local": "Arena Barueri",
+      "time casa": "PAL",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "SAN"
+    },
+    {
+      "data": "08/10 16:00",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "3",
+      "placar fora": "2",
+      "time fora": "GRE"
+    },
+    {
+      "data": "08/10 18:30",
+      "local": "Arena MRV",
+      "time casa": "CAM",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "CFC"
+    },
+    {
+      "data": "08/10 18:30",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "3",
+      "placar fora": "2",
+      "time fora": "AMG"
+    },
+    {
+      "data": "08/10 18:30",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "RBB"
+    },
+    {
+      "data": "14/10 21:00",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "CRU"
+    }
+  ]
+},{
+  "rodada": 27,
+  "jogos": [
+    {
+      "data": "18/10 19:00",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "CAP"
+    },
+    {
+      "data": "18/10 20:00",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "BOT"
+    },
+    {
+      "data": "18/10 20:00",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "0",
+      "placar fora": "3",
+      "time fora": "CUI"
+    },
+    {
+      "data": "18/10 21:30",
+      "local": "S\u00e3o Janu\u00e1rio",
+      "time casa": "VAS",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "FOR"
+    },
+    {
+      "data": "18/10 21:30",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "INT"
+    },
+    {
+      "data": "18/10 21:30",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "SAO"
+    },
+    {
+      "data": "19/10 19:00",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "CAM"
+    },
+    {
+      "data": "19/10 19:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CRU",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "FLA"
+    },
+    {
+      "data": "19/10 20:00",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "1",
+      "placar fora": "3",
+      "time fora": "RBB"
+    },
+    {
+      "data": "19/10 21:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "3",
+      "placar fora": "3",
+      "time fora": "COR"
+    }
+  ]
+},{
+  "rodada": 28,
+  "jogos": [
+    {
+      "data": "21/10 18:30",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "GOI"
+    },
+    {
+      "data": "21/10 18:30",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "FOR"
+    },
+    {
+      "data": "21/10 18:30",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "GRE"
+    },
+    {
+      "data": "21/10 21:00",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "CAP"
+    },
+    {
+      "data": "22/10 16:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "VAS"
+    },
+    {
+      "data": "22/10 16:00",
+      "local": "Arena MRV",
+      "time casa": "CAM",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "CRU"
+    },
+    {
+      "data": "22/10 16:00",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "7",
+      "placar fora": "1",
+      "time fora": "SAN"
+    },
+    {
+      "data": "22/10 18:30",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "FLU"
+    },
+    {
+      "data": "22/10 18:30",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "AMG"
+    },
+    {
+      "data": "22/10 18:30",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "PAL"
+    }
+  ]
+},{
+  "rodada": 29,
+  "jogos": [
+    {
+      "data": "25/10 19:00",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "3",
+      "placar fora": "2",
+      "time fora": "AMG"
+    },
+    {
+      "data": "25/10 19:00",
+      "local": "Raulino de Oliveira",
+      "time casa": "FLU",
+      "placar casa": "5",
+      "placar fora": "3",
+      "time fora": "GOI"
+    },
+    {
+      "data": "25/10 19:00",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "CAM"
+    },
+    {
+      "data": "25/10 20:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CRU",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "BAH"
+    },
+    {
+      "data": "25/10 20:00",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "5",
+      "placar fora": "0",
+      "time fora": "SAO"
+    },
+    {
+      "data": "25/10 21:30",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "3",
+      "placar fora": "2",
+      "time fora": "FLA"
+    },
+    {
+      "data": "25/10 21:30",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "COR"
+    },
+    {
+      "data": "26/10 19:00",
+      "local": "S\u00e3o Janu\u00e1rio",
+      "time casa": "VAS",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "INT"
+    },
+    {
+      "data": "26/10 21:30",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "CFC"
+    },
+    {
+      "data": "23/11 19:00",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "2",
+      "placar fora": "2",
+      "time fora": "BOT"
+    }
+  ]
+},{
+  "rodada": 30,
+  "jogos": [
+    {
+      "data": "28/10 19:00",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "BAH"
+    },
+    {
+      "data": "28/10 19:00",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "3",
+      "placar fora": "4",
+      "time fora": "GRE"
+    },
+    {
+      "data": "28/10 21:00",
+      "local": "Arena MRV",
+      "time casa": "CAM",
+      "placar casa": "2",
+      "placar fora": "0",
+      "time fora": "FLU"
+    },
+    {
+      "data": "29/10 16:00",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "VAS"
+    },
+    {
+      "data": "29/10 16:00",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "SAO"
+    },
+    {
+      "data": "29/10 18:30",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "SAN"
+    },
+    {
+      "data": "29/10 18:30",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "3",
+      "placar fora": "4",
+      "time fora": "CFC"
+    },
+    {
+      "data": "29/10 20:00",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "CUI"
+    },
+    {
+      "data": "18/11 18:30",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "CRU"
+    },
+    {
+      "data": "23/11 21:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "RBB"
+    }
+  ]
+},{
+  "rodada": 31,
+  "jogos": [
+    {
+      "data": "31/10 19:00",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "FLU"
+    },
+    {
+      "data": "01/11 19:00",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "CAP"
+    },
+    {
+      "data": "01/11 19:00",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "AMG"
+    },
+    {
+      "data": "01/11 20:00",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "GRE"
+    },
+    {
+      "data": "01/11 20:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "SAN"
+    },
+    {
+      "data": "01/11 21:30",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "3",
+      "placar fora": "4",
+      "time fora": "PAL"
+    },
+    {
+      "data": "01/11 21:30",
+      "local": "Arena MRV",
+      "time casa": "CAM",
+      "placar casa": "3",
+      "placar fora": "1",
+      "time fora": "FOR"
+    },
+    {
+      "data": "02/11 17:00",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "VAS"
+    },
+    {
+      "data": "02/11 18:00",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "RBB"
+    },
+    {
+      "data": "02/11 20:00",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "CRU"
+    }
+  ]
+},{
+  "rodada": 32,
+  "jogos": [
+    {
+      "data": "04/11 19:30",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "BAH"
+    },
+    {
+      "data": "04/11 19:30",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "CAM"
+    },
+    {
+      "data": "04/11 21:30",
+      "local": "Arena Barueri",
+      "time casa": "PAL",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "CAP"
+    },
+    {
+      "data": "05/11 16:00",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "FLA"
+    },
+    {
+      "data": "05/11 16:00",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "COR"
+    },
+    {
+      "data": "05/11 16:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CRU",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "INT"
+    },
+    {
+      "data": "05/11 18:30",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "GOI"
+    },
+    {
+      "data": "06/11 19:00",
+      "local": "S\u00e3o Janu\u00e1rio",
+      "time casa": "VAS",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "BOT"
+    },
+    {
+      "data": "06/11 21:00",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "CUI"
+    },
+    {
+      "data": "22/11 21:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "SAO"
+    }
+  ]
+},{
+  "rodada": 33,
+  "jogos": [
+    {
+      "data": "08/11 19:00",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "0",
+      "placar fora": "3",
+      "time fora": "CFC"
+    },
+    {
+      "data": "08/11 19:00",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "FLU"
+    },
+    {
+      "data": "08/11 20:00",
+      "local": "Vila Belmiro",
+      "time casa": "SAO",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "RBB"
+    },
+    {
+      "data": "08/11 20:00",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "FOR"
+    },
+    {
+      "data": "08/11 21:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "PAL"
+    },
+    {
+      "data": "09/11 19:00",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "CAM"
+    },
+    {
+      "data": "09/11 19:00",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "SAN"
+    },
+    {
+      "data": "09/11 20:00",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "0",
+      "placar fora": "3",
+      "time fora": "CUI"
+    },
+    {
+      "data": "09/11 20:00",
+      "local": "S\u00e3o Janu\u00e1rio",
+      "time casa": "BOT",
+      "placar casa": "3",
+      "placar fora": "4",
+      "time fora": "GRE"
+    },
+    {
+      "data": "22/11 19:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CRU",
+      "placar casa": "2",
+      "placar fora": "2",
+      "time fora": "VAS"
+    }
+  ]
+},{
+  "rodada": 34,
+  "jogos": [
+    {
+      "data": "11/11 16:00",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "CRU"
+    },
+    {
+      "data": "11/11 18:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "FLU"
+    },
+    {
+      "data": "11/11 21:00",
+      "local": "Arena Barueri",
+      "time casa": "PAL",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "INT"
+    },
+    {
+      "data": "12/11 16:00",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "2",
+      "placar fora": "2",
+      "time fora": "BOT"
+    },
+    {
+      "data": "12/11 16:00",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "COR"
+    },
+    {
+      "data": "12/11 18:30",
+      "local": "Arena MRV",
+      "time casa": "CAM",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "GOI"
+    },
+    {
+      "data": "12/11 18:30",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "SAO"
+    },
+    {
+      "data": "12/11 18:30",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "FOR"
+    },
+    {
+      "data": "12/11 18:30",
+      "local": "S\u00e3o Janu\u00e1rio",
+      "time casa": "VAS",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "AMG"
+    },
+    {
+      "data": "12/11 18:30",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "CAP"
+    }
+  ]
+},{
+  "rodada": 35,
+  "jogos": [
+    {
+      "data": "24/11 21:00",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "1",
+      "placar fora": "5",
+      "time fora": "BAH"
+    },
+    {
+      "data": "25/11 19:30",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "VAS"
+    },
+    {
+      "data": "25/11 21:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "CFC"
+    },
+    {
+      "data": "26/11 16:00",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "SAN"
+    },
+    {
+      "data": "26/11 16:00",
+      "local": "Arena MRV",
+      "time casa": "CAM",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "GRE"
+    },
+    {
+      "data": "26/11 18:30",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "RBB"
+    },
+    {
+      "data": "26/11 18:30",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "CUI"
+    },
+    {
+      "data": "26/11 18:30",
+      "local": "Parque do Sabi\u00e1",
+      "time casa": "AMG",
+      "placar casa": "0",
+      "placar fora": "3",
+      "time fora": "FLA"
+    },
+    {
+      "data": "26/11 18:30",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "2",
+      "placar fora": "2",
+      "time fora": "PAL"
+    },
+    {
+      "data": "27/11 21:00",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "CRU"
+    }
+  ]
+},{
+  "rodada": 36,
+  "jogos": [
+    {
+      "data": "28/11 21:30",
+      "local": "S\u00e3o Janu\u00e1rio",
+      "time casa": "VAS",
+      "placar casa": "2",
+      "placar fora": "4",
+      "time fora": "COR"
+    },
+    {
+      "data": "29/11 19:00",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "0",
+      "placar fora": "3",
+      "time fora": "FLU"
+    },
+    {
+      "data": "29/11 19:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "0",
+      "placar fora": "3",
+      "time fora": "CAM"
+    },
+    {
+      "data": "29/11 20:00",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "0",
+      "placar fora": "1",
+      "time fora": "SAO"
+    },
+    {
+      "data": "29/11 20:00",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "INT"
+    },
+    {
+      "data": "29/11 21:30",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "4",
+      "placar fora": "0",
+      "time fora": "AMG"
+    },
+    {
+      "data": "29/11 21:30",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "BOT"
+    },
+    {
+      "data": "30/11 19:00",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "GOI"
+    },
+    {
+      "data": "30/11 20:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CRU",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "CAP"
+    },
+    {
+      "data": "30/11 20:30",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "FOR"
+    }
+  ]
+},{
+  "rodada": 37,
+  "jogos": [
+    {
+      "data": "02/12 18:00",
+      "local": "Neo Qu\u00edmica Arena",
+      "time casa": "COR",
+      "placar casa": "1",
+      "placar fora": "2",
+      "time fora": "INT"
+    },
+    {
+      "data": "02/12 21:00",
+      "local": "Mineir\u00e3o",
+      "time casa": "CAM",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "SAO"
+    },
+    {
+      "data": "03/12 16:00",
+      "local": "Allianz Parque",
+      "time casa": "PAL",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "FLU"
+    },
+    {
+      "data": "03/12 16:00",
+      "local": "Maracan\u00e3",
+      "time casa": "FLA",
+      "placar casa": "2",
+      "placar fora": "1",
+      "time fora": "CUI"
+    },
+    {
+      "data": "03/12 18:30",
+      "local": "Castel\u00e3o",
+      "time casa": "FOR",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "GOI"
+    },
+    {
+      "data": "03/12 18:30",
+      "local": "Nilton Santos",
+      "time casa": "BOT",
+      "placar casa": "0",
+      "placar fora": "0",
+      "time fora": "CRU"
+    },
+    {
+      "data": "03/12 18:30",
+      "local": "Independ\u00eancia",
+      "time casa": "AMG",
+      "placar casa": "3",
+      "placar fora": "2",
+      "time fora": "BAH"
+    },
+    {
+      "data": "03/12 18:30",
+      "local": "Nabi Abi Chedid",
+      "time casa": "RBB",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "CFC"
+    },
+    {
+      "data": "03/12 18:30",
+      "local": "Gr\u00eamio Arena",
+      "time casa": "GRE",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "VAS"
+    },
+    {
+      "data": "03/12 18:30",
+      "local": "Ligga Arena",
+      "time casa": "CAP",
+      "placar casa": "3",
+      "placar fora": "0",
+      "time fora": "SAN"
+    }
+  ]
+},{
+  "rodada": 38,
+  "jogos": [
+    {
+      "data": "06/12 19:00",
+      "local": "Hail\u00e9 Pinheiro",
+      "time casa": "GOI",
+      "placar casa": "Sem placar",
+      "placar fora": "Sem placar",
+      "time fora": "AMG"
+    },
+    {
+      "data": "06/12 21:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "Sem placar",
+      "placar fora": "Sem placar",
+      "time fora": "GRE"
+    },
+    {
+      "data": "06/12 21:30",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "Sem placar",
+      "placar fora": "Sem placar",
+      "time fora": "FLA"
+    },
+    {
+      "data": "06/12 21:30",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "Sem placar",
+      "placar fora": "Sem placar",
+      "time fora": "COR"
+    },
+    {
+      "data": "06/12 21:30",
+      "local": "Vila Belmiro",
+      "time casa": "SAN",
+      "placar casa": "Sem placar",
+      "placar fora": "Sem placar",
+      "time fora": "FOR"
+    },
+    {
+      "data": "06/12 21:30",
+      "local": "S\u00e3o Janu\u00e1rio",
+      "time casa": "VAS",
+      "placar casa": "Sem placar",
+      "placar fora": "Sem placar",
+      "time fora": "RBB"
+    },
+    {
+      "data": "06/12 21:30",
+      "local": "Mineir\u00e3o",
+      "time casa": "CRU",
+      "placar casa": "Sem placar",
+      "placar fora": "Sem placar",
+      "time fora": "PAL"
+    },
+    {
+      "data": "06/12 21:30",
+      "local": "Beira-Rio",
+      "time casa": "INT",
+      "placar casa": "Sem placar",
+      "placar fora": "Sem placar",
+      "time fora": "BOT"
+    },
+    {
+      "data": "06/12 21:30",
+      "local": "Arena Fonte Nova",
+      "time casa": "BAH",
+      "placar casa": "Sem placar",
+      "placar fora": "Sem placar",
+      "time fora": "CAM"
+    },
+    {
+      "data": "06/12 21:30",
+      "local": "Arena Pantanal",
+      "time casa": "CUI",
+      "placar casa": "Sem placar",
+      "placar fora": "Sem placar",
+      "time fora": "CAP"
+    }
+  ]
+}]}

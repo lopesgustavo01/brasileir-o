@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/static/style.css">
+
+    <script defer>
+
+        //variaveis de retorno de api
+        
+        let tabela1 = [
+{
+        aproveitamento: 61,
+        derrotas: 8,
+        empates: 9,
+        gols_contra: 32,
+        gols_pro: 62,
+        jogos: 36,
+        pontos: 66,
+        posicao: 1,
+        saldo_gols: 30,
+        time: { time_id: 56, nome_popular: 'Palmeiras', sigla: 'PAL', escudo: 'https://cdn.api-futebol.com.br/escudos/638d34a1cf247.svg' },
+        ultimos_jogos: ['v', 'd', 'v', 'e', 'v'],
+        variacao_posicao: 0,
+        vitorias: 19
+    },
+    {
+        aproveitamento: 59,
+        derrotas: 9,
+        empates: 9,
+        gols_contra: 28,
+        gols_pro: 51,
+        jogos: 37,
+        pontos: 66,
+        posicao: 2,
+        saldo_gols: 23,
+        time: { time_id: 30, nome_popular: 'Atlético-MG', sigla: 'CAM', escudo: 'https://cdn.api-futebol.com.br/escudos/638d3494f3380.svg' },
+        ultimos_jogos: ['e', 'v', 'v', 'v', 'v'],
+        variacao_posicao: 1,
+        vitorias: 19
+    },
+    {
+        aproveitamento: 58,
+        derrotas: 9,
+        empates: 9,
+        gols_contra: 34,
+        gols_pro: 57,
+        jogos: 36,
+        pontos: 63,
+        posicao: 3,
+        saldo_gols: 23,
+        time: { time_id: 22, nome_popular: 'Botafogo', sigla: 'BOT', escudo: 'https://cdn.api-futebol.com.br/escudos/638d349052558.svg' },
+        ultimos_jogos: ['d', 'd', 'e', 'e', 'e'],
+        variacao_posicao: -1,
+        vitorias: 18
+    },
+  
+    {
+        aproveitamento: 27,
+        derrotas: 22,
+        empates: 6,
+        gols_contra: 70,
+        gols_pro: 41,
+        jogos: 36,
+        pontos: 30,
+        posicao: 19,
+        saldo_gols: -29,
+        time: { time_id: 84, nome_popular: 'Coritiba', sigla: 'CFC', escudo: 'https://cdn.api-futebol.com.br/escudos/638d34b1296c2.svg' },
+        ultimos_jogos: ['d', 'v', 'v', 'd', 'e'],
+        variacao_posicao: 0,
+        vitorias: 8
+    },
+    {
+        aproveitamento: 19,
+        derrotas: 23,
+        empates: 9,
+        gols_contra: 78,
+        gols_pro: 39,
+        jogos: 36,
+        pontos: 21,
+        posicao: 20,
+        saldo_gols: -39,
+        time: { time_id: 33, nome_popular: 'América-MG', sigla: 'AMG', escudo: 'https://cdn.api-futebol.com.br/escudos/638d34966e9c6.svg' },
+        ultimos_jogos: ['e', 'd', 'd', 'd', 'd'],
+        variacao_posicao: 0,
+        vitorias: 4
+    },
+    {
+        aproveitamento: 19,
+        derrotas: 23,
+        empates: 9,
+        gols_contra: 78,
+        gols_pro: 39,
+        jogos: 36,
+        pontos: 21,
+        posicao: 20,
+        saldo_gols: -39,
+        time: { time_id: 33, nome_popular: 'América-MG', sigla: 'AMG', escudo: 'https://cdn.api-futebol.com.br/escudos/638d34966e9c6.svg' },
+        ultimos_jogos: ['e', 'd', 'd', 'd', 'd'],
+        variacao_posicao: 0,
+        vitorias: 4
+    },{
+        aproveitamento: 19,
+        derrotas: 23,
+        empates: 9,
+        gols_contra: 78,
+        gols_pro: 39,
+        jogos: 36,
+        pontos: 21,
+        posicao: 20,
+        saldo_gols: -39,
+        time: { time_id: 33, nome_popular: 'América-MG', sigla: 'AMG', escudo: 'https://cdn.api-futebol.com.br/escudos/638d34966e9c6.svg' },
+        ultimos_jogos: ['e', 'd', 'd', 'd', 'd'],
+        variacao_posicao: 0,
+        vitorias: 4
+    },{
+        aproveitamento: 19,
+        derrotas: 23,
+        empates: 9,
+        gols_contra: 78,
+        gols_pro: 39,
+        jogos: 36,
+        pontos: 21,
+        posicao: 20,
+        saldo_gols: -39,
+        time: { time_id: 33, nome_popular: 'América-MG', sigla: 'AMG', escudo: 'https://cdn.api-futebol.com.br/escudos/638d34966e9c6.svg' },
+        ultimos_jogos: ['e', 'd', 'd', 'd', 'd'],
+        variacao_posicao: 0,
+        vitorias: 4
+    },{
+        aproveitamento: 19,
+        derrotas: 23,
+        empates: 9,
+        gols_contra: 78,
+        gols_pro: 39,
+        jogos: 36,
+        pontos: 21,
+        posicao: 20,
+        saldo_gols: -39,
+        time: { time_id: 33, nome_popular: 'América-MG', sigla: 'AMG', escudo: 'https://cdn.api-futebol.com.br/escudos/638d34966e9c6.svg' },
+        ultimos_jogos: ['e', 'd', 'd', 'd', 'd'],
+        variacao_posicao: 0,
+        vitorias: 4
+    },{
+        aproveitamento: 19,
+        derrotas: 23,
+        empates: 9,
+        gols_contra: 78,
+        gols_pro: 39,
+        jogos: 36,
+        pontos: 21,
+        posicao: 20,
+        saldo_gols: -39,
+        time: { time_id: 33, nome_popular: 'América-MG', sigla: 'AMG', escudo: 'https://cdn.api-futebol.com.br/escudos/638d34966e9c6.svg' },
+        ultimos_jogos: ['e', 'd', 'd', 'd', 'd'],
+        variacao_posicao: 0,
+        vitorias: 4
+    },{
+        aproveitamento: 19,
+        derrotas: 23,
+        empates: 9,
+        gols_contra: 78,
+        gols_pro: 39,
+        jogos: 36,
+        pontos: 21,
+        posicao: 20,
+        saldo_gols: -39,
+        time: { time_id: 33, nome_popular: 'América-MG', sigla: 'AMG', escudo: 'https://cdn.api-futebol.com.br/escudos/638d34966e9c6.svg' },
+        ultimos_jogos: ['e', 'd', 'd', 'd', 'd'],
+        variacao_posicao: 0,
+        vitorias: 4
+    },{
+        aproveitamento: 19,
+        derrotas: 23,
+        empates: 9,
+        gols_contra: 78,
+        gols_pro: 39,
+        jogos: 36,
+        pontos: 21,
+        posicao: 20,
+        saldo_gols: -39,
+        time: { time_id: 33, nome_popular: 'América-MG', sigla: 'AMG', escudo: 'https://cdn.api-futebol.com.br/escudos/638d34966e9c6.svg' },
+        ultimos_jogos: ['e', 'd', 'd', 'd', 'd'],
+        variacao_posicao: 0,
+        vitorias: 4
+    },{
+        aproveitamento: 19,
+        derrotas: 23,
+        empates: 9,
+        gols_contra: 78,
+        gols_pro: 39,
+        jogos: 36,
+        pontos: 21,
+        posicao: 20,
+        saldo_gols: -39,
+        time: { time_id: 33, nome_popular: 'América-MG', sigla: 'AMG', escudo: 'https://cdn.api-futebol.com.br/escudos/638d34966e9c6.svg' },
+        ultimos_jogos: ['e', 'd', 'd', 'd', 'd'],
+        variacao_posicao: 0,
+        vitorias: 4
+    },{
+        aproveitamento: 19,
+        derrotas: 23,
+        empates: 9,
+        gols_contra: 78,
+        gols_pro: 39,
+        jogos: 36,
+        pontos: 21,
+        posicao: 20,
+        saldo_gols: -39,
+        time: { time_id: 33, nome_popular: 'América-MG', sigla: 'AMG', escudo: 'https://cdn.api-futebol.com.br/escudos/638d34966e9c6.svg' },
+        ultimos_jogos: ['e', 'd', 'd', 'd', 'd'],
+        variacao_posicao: 0,
+        vitorias: 4
+    },{
+        aproveitamento: 19,
+        derrotas: 23,
+        empates: 9,
+        gols_contra: 78,
+        gols_pro: 39,
+        jogos: 36,
+        pontos: 21,
+        posicao: 20,
+        saldo_gols: -39,
+        time: { time_id: 33, nome_popular: 'América-MG', sigla: 'AMG', escudo: 'https://cdn.api-futebol.com.br/escudos/638d34966e9c6.svg' },
+        ultimos_jogos: ['e', 'd', 'd', 'd', 'd'],
+        variacao_posicao: 0,
+        vitorias: 4
+    },{
+        aproveitamento: 19,
+        derrotas: 23,
+        empates: 9,
+        gols_contra: 78,
+        gols_pro: 39,
+        jogos: 36,
+        pontos: 21,
+        posicao: 20,
+        saldo_gols: -39,
+        time: { time_id: 33, nome_popular: 'América-MG', sigla: 'AMG', escudo: 'https://cdn.api-futebol.com.br/escudos/638d34966e9c6.svg' },
+        ultimos_jogos: ['e', 'd', 'd', 'd', 'd'],
+        variacao_posicao: 0,
+        vitorias: 4
+    }
+];
+        
+        // Rotas da api
+        var url_tabela = 'https://api.api-futebol.com.br/v1/campeonatos/10/tabela';
+        var url_camp = 'https://api.api-futebol.com.br/v1/campeonatos/10'
+        
+
+        //chave
+        var token = 'live_811259ce61909734b22134eea54a9b';
+
+        // Criacão de chamadas pra API
+        var xhr = new XMLHttpRequest();
+        var xhr_camp = new XMLHttpRequest();
+        var xhr_rodada = new XMLHttpRequest();
+
+        // -------------------rota tabela---------------------
+        xhr.open('GET', url_tabela, true);
+
+        // Configurar o cabeçalho de autorização Bearer
+        xhr.setRequestHeader('Authorization', 'Bearer ' + token);
+
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState == 4 && xhr.status == 200) {
+                // Manipular a resposta da API
+                tabela1 = JSON.parse(xhr.responseText);
+                
+                preencherTabela(tabela1);
+            } else if (xhr.readyState == 4 && xhr.status != 200) {
+                // Lidar com erros
+                console.error('Erro na solicitação. Código de status: ' + xhr.status);
+            }
+        };
+        // --------------------------------------------------
+
+        // -------------------rota cabecalho---------------------
+        xhr_camp.open('GET', url_camp, true);
+
+        // Configurar o cabeçalho de autorização Bearer
+        xhr_camp.setRequestHeader('Authorization', 'Bearer ' + token);
+
+        xhr_camp.onreadystatechange = function () {
+            if (xhr_camp.readyState == 4 && xhr_camp.status == 200) {
+                // Manipular a resposta da API
+                var camp = JSON.parse(xhr_camp.responseText);
+                
+                preencherCabecalho(camp)
+            } else if (xhr_camp.readyState == 4 && xhr_camp.status != 200) {
+                // Lidar com erros
+                console.error('Erro na solicitação. Código de status: ' + xhr_camp.status);
+            }
+        };
+        // --------------------------------------------------
+        
+
+        // Enviar a solicitação
+        xhr.send();
+        xhr_camp.send();
+        
+        
+        // ----------------Funcão de tratamento---------------
+        function preencherCabecalho(data) {
+            var mensagemContainer = document.getElementById('logo');
+            var nome_camp = document.getElementById('nome_camp');
+            var temp = document.getElementById('temporada')
+
+            nome_camp.innerHTML = `${data.nome_popular}`;
+            temp.textContent = data.edicao_atual.temporada;
+            mensagemContainer.innerHTML = `${data ? `<img width="30"src=${data.logo} />` : 'não'}`;
+        }
+
+        function obterInfoRodada(event) {
+            event.preventDefault();
+            
+            var numeroRodada = document.getElementById("numero").value;
+            if (!numeroRodada) return 'vazio'
+                fetch('http://127.0.0.1:5000/rodada', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/x-www-form-urlencoded',
+                    },
+                    body: `numero_rodada=${numeroRodada}`,
+                })
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data);
+                    preencherlista(data);
+                    // Faça algo com os dados recebidos
+                })
+                .catch(error => {
+                    console.error('Erro:', error);
+                });
+            }
+
+            function preencherlista(data) {
+
+            var divListaPartidas = document.querySelector('.lista_partidas');
+            divListaPartidas.innerHTML = '';
+
+            // Loop através dos dados e criação de elementos HTML
+            data.jogos.forEach((partida) => {
+                //---------- criar elementos--------------
+                var divPartida = document.createElement('div');
+                divPartida.className = 'partida';
+                //time casa
+                var time_casa = document.createElement('p');
+                time_casa.className = 'time_casa';
+                time_casa.textContent = partida['time casa'];
+                //time fora
+                var time_fora = document.createElement('p');
+                time_fora.className = 'time_fora';
+                time_fora.textContent = partida['time fora'];
+                //gols casa
+                var gols_casa = document.createElement('p');
+                gols_casa.className = 'gols_casa';
+                gols_casa.textContent = partida['placar casa'];
+                //gols fora
+                var gols_fora = document.createElement('p');
+                gols_fora.className = 'gols_fora';
+                gols_fora.textContent = partida['placar fora'];
+                // estadio
+                var estadio = document.createElement('p');
+                estadio.className = 'estadio';
+                estadio.textContent = partida['local'];
+                // data
+                var data_elem = document.createElement('p');
+                data_elem.className = 'data';
+                data_elem.textContent = partida['data'];
+
+                // Adicionar os elementos à div
+                divPartida.appendChild(estadio);
+                divPartida.appendChild(data_elem);
+
+                divPartida.appendChild(time_casa);
+                divPartida.appendChild(gols_casa);
+                divPartida.appendChild(gols_fora);
+                divPartida.appendChild(time_fora);
+                
+                
+                
+
+                divListaPartidas.appendChild(divPartida);
+                console.log(partida);
+            });
+        }
+
+
+        function preencherTabela(data) {
+            var tab = document.querySelector('.tab');
+
+    
+            if (!tab) {
+                console.error('Elemento tbody não encontrado na tabela.');
+                return;
+            }
+
+            data.forEach(function (time) {
+                var img = document.createElement('img');
+                img.src = time.time.escudo;
+                img.width = 17
+                img.alt = time.time.nome_popular;
+                img.className = 'escudo'
+                var span = document.createElement('span');
+                span.textContent = time.time.nome_popular;
+                
+                
+
+                var newRow = tab.insertRow();
+                newRow.insertCell().textContent = time.posicao;
+                var nome_time = newRow.insertCell();
+                newRow.insertCell().textContent = time.pontos;
+                newRow.insertCell().textContent = time.jogos;
+                newRow.insertCell().textContent = time.vitorias;
+                newRow.insertCell().textContent = time.empates;
+                newRow.insertCell().textContent = time.derrotas;
+                newRow.insertCell().textContent = time.gols_pro;
+                newRow.insertCell().textContent = time.gols_contra;
+                newRow.insertCell().textContent = time.saldo_gols;
+                
+
+                nome_time.appendChild(img);
+                nome_time.appendChild(span);
+                nome_time.className = 'Name_main'
+
+                // Substitui 'v', 'e' e 'd' por imagens correspondentes
+                var ulti = newRow.insertCell();
+                ulti.textContent = time.ultimos_jogos.join(', ')
+                ulti.className='ulti';
+                var ultimosJogos = time.ultimos_jogos.map(function (resultado) {
+                    if (resultado === 'v') return `<img src="static/imgs/v.png" alt="Vitória" width="13" />`;
+                    if (resultado === 'e') return `<img src="static/imgs/e.png" alt="Empate" width="13" />`;
+                    if (resultado === 'd') return `<img src="static/imgs/d.png" alt="Derrota" width="13" />`;
+                    return resultado; // Se não for 'v', 'e' ou 'd', mantém o valor original
+                });
+
+                ulti.innerHTML = ultimosJogos.join('');
+    });
+
+}
+
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="lado_table">
+            <div class="cabecalho_table">
+                <div id="logo"></div><h1 id="nome_camp"></h1>
+                <div id="temporada"></div>
+            </div>
+            <div class="container_table">
+                
+                <table>
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th class="nome_tabela">Clube</th>
+                            <th>Pts</th>
+                            <th>Pj</th>
+                            <th>VIT</th>
+                            <th>EMP</th>
+                            <th>DER</th>
+                            <th>GM</th>
+                            <th>GC</th>
+                            <th>SG</th>
+                            <th>Últimas 5</th>
+                            
+                        </tr>
+                    </thead>
+                    <tbody class="tab">
+                        
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="lado_rodadas">
+            <div class="container_busca">
+                <div id="busca">
+                    <form>
+                        <label for="numero">Rodada</label>
+                        <input type="number" name="numero" id="numero">
+                        <button type="submit" onclick="obterInfoRodada(event)">rodada</button>
+                    </form>
+                </div>
+                <div class="lista_partidas">
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        //preencherTabela(tabela1);
+        
+    </script>
+</body>
+</html>

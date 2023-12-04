@@ -1,0 +1,217 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(180, 180, 180);
+}
+
+.container {
+    display: flex;
+    background-color: rgb(92, 92, 92);
+    width: 100%;
+    height: 100vh;
+    overflow-x: hidden;
+}
+.lado_table{
+    width: 70%;
+}
+.container_table {
+    max-width: 650px;
+    padding: 10px;
+    padding-top: 15px;
+    background-color: rgb(50, 50, 50);
+    margin: 0 auto;
+    width: 100%;
+}
+
+.nome_tabela {
+    text-align: start;
+}
+
+.Name_main {
+    min-width: 200px;
+}
+
+.Name_main span {
+    position: relative;
+    top: -3px;
+    padding-left: 5px;
+    height: 20px;
+}
+
+table {
+    background-color: rgb(50, 50, 50);
+    border-collapse: collapse;
+    padding: 0;
+    width: 100%;
+}
+
+table th {
+    text-align: center;
+    font-size: 12px;
+    padding-right: 7px;
+}
+
+.escudo {
+    margin-top: 5px;
+}
+
+table td {
+    align-items: center;
+    padding: 1px 4px; 
+    margin: 0;
+    min-width: 20px;
+    border-bottom: 1px solid rgb(116, 116, 116);
+}
+
+table .ulti {
+    text-align: center;
+    min-width: 100px;
+}
+
+table .ulti img {
+    padding-left: 2px;
+}
+ /*  cabecalho table */
+.cabecalho_table {
+
+    max-width: 650px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(43, 43, 43);
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#logo {
+    padding-left: 30px;
+}
+#temporada {
+    align-self: center;
+}
+
+/* form */
+.container_busca {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 80%;
+}
+
+#busca {
+    color: #CCCCCC;
+}
+
+form {
+    margin: 0 auto;
+    padding: 10px;
+    width: 280px;
+    min-width: 280px;
+    background-color: rgb(50, 50, 50);
+    margin-top: 10px;
+
+}
+
+label {
+    color: #CCCCCC;
+    margin-right: 10px;
+}
+
+#numero {
+    background-color: #464646;
+    width: 50px;
+    color: #CCCCCC;
+    padding: 5px;
+    border: none;
+}
+
+button {
+    background-color: #464646;
+    color: #CCCCCC;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+
+/* lado tabela */
+.lado_rodadas {
+    width: 30%;
+    height: 100vh;
+}
+
+.partida {
+    background-color: rgb(60, 60, 60);
+    padding-top: 10px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+}
+
+.estadio {
+    padding-bottom: 5px;
+    text-align: center;
+    min-width: 150px;
+}
+.data {
+    padding-bottom: 5px;
+    text-align: center;
+    min-width: 150px;
+}
+
+.time_casa {
+    min-height: 25px;
+    padding-top: 10px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    min-width: 75px;
+}
+.time_fora {
+    min-height: 25px;
+    padding-top: 10px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    min-width: 75px;
+}
+.gols_casa{
+    min-height: 25px;
+    padding-top: 10px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    min-width: 75px;
+}   
+.gols_fora{
+    min-height: 25px;
+    padding-top: 10px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    min-width: 75px;
+}
+
+
+@media screen and (max-width: 950px) {
+    .container{
+        flex-direction: column;
+    }
+    .lado_table{
+        width: 100%;
+    }
+    .container_busca {
+        margin: 0 auto;
+       align-items: center;
+       border: 1px solid red;
+    }
+    .lado_rodadas {
+        width: 100%;
+        text-align: center;
+    }
+}
