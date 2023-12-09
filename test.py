@@ -11,3 +11,13 @@ def rod(num):
 
     # Agora, 'dados' contém a estrutura do seu arquivo JSON
     return dados['rodadas'][num]
+
+def time(time):
+    nome_arquivo = './static/json/elenco.json'
+    with open(nome_arquivo, 'r') as json_file:
+        dados = json.load(json_file)
+    dados = dados['elencos']
+    for i in dados:
+        if i['time'] == time:
+            return i
+    return False

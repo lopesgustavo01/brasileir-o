@@ -31,6 +31,15 @@
 .Name_main {
     min-width: 200px;
 }
+a {
+    text-decoration: none; 
+    color: #007bff; 
+}
+
+
+a:hover {
+    background-color: #0000006f;
+}
 
 .Name_main span {
     position: relative;

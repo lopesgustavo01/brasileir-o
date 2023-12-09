@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    height: 100vh;
+    
+}
+.cabecalho {
+    padding: 10px;
+    height: 200px;
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    
+}
+
+.imgtitulo img {
+    margin-left: -30px;
+    width: auto;
+    height: 50px;
+}
+.imgtitulo {
+    margin-top: 100px;
+    width: 80%;
+    height: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+.cabecalho img {
+    
+    padding-left: 40px;
+}
+
+h2{
+    padding: 10px;
+    margin: 0 auto;
+    width: 60%;
+    background-color: rgb(255, 255, 255);
+}
+.lista_elenco img {
+    
+    height: 400px;
+}
+.lista_elenco{
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.lista_elenco ul{
+    margin: 0;
+    overflow-x: scroll;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 400px;
+}
+
+.lista_elenco li {
+    font-size: 16px;
+}
+
+@media only screen and (max-width: 1300px) {
+    .imgtitulo {
+        margin-top: 50px;
+    }
+}
+
+@media only screen and (max-width: 1020px) {
+    .lista_elenco, .cabecalho, h2 {
+        width: 80%;
+    }
+
+    .imgtitulo {
+        margin-top: 0px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .lista_elenco, .cabecalho, h2 {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .imgtitulo,  .lista_elenco img{
+        display: none;
+    }
+    .cabecalho img {
+        padding: 0;
+        margin: 0 auto;
+    }
+
+}

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clube</title>
+    <link rel="stylesheet" href="/static/style_time.css">
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const clube = urlParams.get('clube');
+
+        fetch('http://127.0.0.1:5000/time', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/x-www-form-urlencoded',
+                    },
+                    body: `time=${clube}`,
+                })
+                .then(response => response.json())
+                .then(data => {
+                    carregaInfo(data);
+
+                })
+                .catch(error => {
+                    console.error('Erro:', error);
+                });
+        
+        const carregaInfo = ((data)=> {
+            console.log(data)
+
+            const container = document.querySelector('.container') // pegar o container
+            const campo = document.createElement('img');
+            const div = document.createElement('div');
+
+            div.style.backgroundColor = data.cor;
+            container.style.backgroundColor = `${data.cor}88`;
+            
+            div.className = "cabecalho"
+
+            //titulos
+            const titulos = document.createElement('div');
+            titulos.className = 'imgtitulo'
+            for (let i = 0; i < data.br; i++) {
+                const img = document.createElement('img');
+                img.src = 'static/imgs/br.png'; 
+                img.alt = `Imagem ${i + 1}`; // Alt com base no índice do loop
+                img.width = 50; // Substitua pela largura desejada
+
+                titulos.appendChild(img);
+            }
+            for (let i = 0; i < data.cl; i++) {
+                const img = document.createElement('img');
+                img.src = 'static/imgs/cl.png'; 
+                img.alt = `Imagem ${i + 1}`; // Alt com base no índice do loop
+                img.width = 50; // Substitua pela largura desejada
+
+                titulos.appendChild(img);
+            }
+            for (let i = 0; i < data.cb; i++) {
+                const img = document.createElement('img');
+                img.src = 'static/imgs/cb.png'; 
+                img.alt = `Imagem ${i + 1}`; // Alt com base no índice do loop
+                img.width = 50; // Substitua pela largura desejada
+
+                titulos.appendChild(img);
+            }
+
+            // Criação da imagem
+            const img = document.createElement('img');
+            img.src = data.url;
+            img.alt = 'Imagem';
+            img.width = 200;  // Substitua pela largura desejada
+
+            //criação de elenco
+            const divElenco = document.createElement('div');
+            divElenco.className = "lista_elenco"
+            const listaElenco = document.createElement('ul');// Criação da lista
+        
+            const h2 = document.createElement("h2")
+            h2.textContent = "Elenco:"
+
+            // Preenche a lista com os nomes do elenco
+            data.elenco.forEach((nome) => {
+                const itemLista = document.createElement('li');
+                itemLista.textContent = nome;
+                listaElenco.appendChild(itemLista);
+            });
+            divElenco.appendChild(listaElenco);
+            // Adiciona a imagem à div
+            div.appendChild(img);
+            div.appendChild(titulos)
+
+            // Adiciona a div ao body (ou a qualquer outro elemento desejado)
+            campo.src = './static/imgs/campo.png'
+            divElenco.appendChild(campo)
+            container.appendChild(div);
+            container.appendChild(h2)
+            container.appendChild(divElenco);
+        }) 
+    </script>
+</head>
+<body>
+    <div class="container">
+
+    </div>
+</body>
+</html>

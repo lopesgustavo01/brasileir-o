@@ -3113,80 +3113,80 @@
       "data": "06/12 19:00",
       "local": "Hail\u00e9 Pinheiro",
       "time casa": "GOI",
-      "placar casa": "Sem placar",
-      "placar fora": "Sem placar",
+      "placar casa": "1",
+      "placar fora": "0",
       "time fora": "AMG"
     },
     {
       "data": "06/12 21:30",
-      "local": "Maracan\u00e3",
-      "time casa": "FLU",
-      "placar casa": "Sem placar",
-      "placar fora": "Sem placar",
-      "time fora": "GRE"
-    },
-    {
-      "data": "06/12 21:30",
-      "local": "Morumbi",
-      "time casa": "SAO",
-      "placar casa": "Sem placar",
-      "placar fora": "Sem placar",
-      "time fora": "FLA"
-    },
-    {
-      "data": "06/12 21:30",
-      "local": "Couto Pereira",
-      "time casa": "CFC",
-      "placar casa": "Sem placar",
-      "placar fora": "Sem placar",
-      "time fora": "COR"
+      "local": "Mineir\u00e3o",
+      "time casa": "CRU",
+      "placar casa": "1",
+      "placar fora": "1",
+      "time fora": "PAL"
     },
     {
       "data": "06/12 21:30",
       "local": "Vila Belmiro",
       "time casa": "SAN",
-      "placar casa": "Sem placar",
-      "placar fora": "Sem placar",
+      "placar casa": "1",
+      "placar fora": "2",
       "time fora": "FOR"
     },
     {
       "data": "06/12 21:30",
       "local": "S\u00e3o Janu\u00e1rio",
       "time casa": "VAS",
-      "placar casa": "Sem placar",
-      "placar fora": "Sem placar",
+      "placar casa": "2",
+      "placar fora": "1",
       "time fora": "RBB"
-    },
-    {
-      "data": "06/12 21:30",
-      "local": "Mineir\u00e3o",
-      "time casa": "CRU",
-      "placar casa": "Sem placar",
-      "placar fora": "Sem placar",
-      "time fora": "PAL"
     },
     {
       "data": "06/12 21:30",
       "local": "Beira-Rio",
       "time casa": "INT",
-      "placar casa": "Sem placar",
-      "placar fora": "Sem placar",
+      "placar casa": "3",
+      "placar fora": "1",
       "time fora": "BOT"
+    },
+    {
+      "data": "06/12 21:30",
+      "local": "Maracan\u00e3",
+      "time casa": "FLU",
+      "placar casa": "2",
+      "placar fora": "3",
+      "time fora": "GRE"
+    },
+    {
+      "data": "06/12 21:30",
+      "local": "Morumbi",
+      "time casa": "SAO",
+      "placar casa": "1",
+      "placar fora": "0",
+      "time fora": "FLA"
+    },
+    {
+      "data": "06/12 21:30",
+      "local": "Couto Pereira",
+      "time casa": "CFC",
+      "placar casa": "0",
+      "placar fora": "2",
+      "time fora": "COR"
     },
     {
       "data": "06/12 21:30",
       "local": "Arena Fonte Nova",
       "time casa": "BAH",
-      "placar casa": "Sem placar",
-      "placar fora": "Sem placar",
+      "placar casa": "4",
+      "placar fora": "1",
       "time fora": "CAM"
     },
     {
       "data": "06/12 21:30",
       "local": "Arena Pantanal",
       "time casa": "CUI",
-      "placar casa": "Sem placar",
-      "placar fora": "Sem placar",
+      "placar casa": "3",
+      "placar fora": "0",
       "time fora": "CAP"
     }
   ]
